@@ -1,0 +1,10 @@
+hr{
+    font-size: 32px;
+    font-weight: 700;
+    border-bottom: 2px solid black;
+}
+body {
+    height:297mm;
+    width:210mm;
+  }
+ 
