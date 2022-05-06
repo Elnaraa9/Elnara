@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width:  210mm;
+    height: 297mm;
+}
+header{
+    text-align: center;
+}
+hr{
+    height: 2px;
+    color: black;
+    background-color: black;
+}
+.title{
+    height: 50px;
+    width: 50%;
+    margin-top: 10px;
+}
+.job-title{
+    margin-top: 15px;
+}
+.text{
+    font-family: 'Pinyon Script', cursive;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.list{
+    margin-top: 15px;
+    margin-left: 40px; 
+}
+h3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.word{
+    margin-bottom: 20px;   
+}
+.list1{
+    list-style-type: square;
+    margin-top: 15px;
+    margin-left: 40px;  
+}
