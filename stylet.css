@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.name{
+    font-size: 27px;
+}
+.navbar {
+    overflow: hidden;
+    background-color:white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  .navbar a {
+    float: right;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Montserrat,sans-serif;
+  }
+  .navbar:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-underline-position: below;
+  }
+  .active {
+    background-color: rgb(255, 255, 255);
+  } 
